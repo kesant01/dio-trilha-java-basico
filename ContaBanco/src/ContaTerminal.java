@@ -6,7 +6,7 @@ public class ContaTerminal {
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.print("Olá! \nPor favor, digite o número da conta: ");
+        System.out.println("Olá! \nPor favor, digite o número da conta: ");
         int numero = scanner.nextInt();
 
         System.out.println("Digite a sua agência: ");
