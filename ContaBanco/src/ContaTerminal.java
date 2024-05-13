@@ -12,7 +12,7 @@ public class ContaTerminal {
         System.out.println("Digite a sua agência: ");
         String agencia = scanner.next();
 
-        System.out.println("Digite o seu nome: ");
+        System.out.println("Digite o seu primeiro nome: ");
         String nomeCliente = scanner.next();
 
         System.out.println("Digite o valor do saldo a ser depositado: ");
